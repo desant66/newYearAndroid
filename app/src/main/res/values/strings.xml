@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Pr56</string>
     <string name="main_page">Главная страница</string>
-    <string name="name">GorlovDima</string>
+    <string name="name" translatable="false">GorlovDima</string>
     <string name="happy_new_year">С новым годом</string>
     <string name="new_year_pictures">Новогодние картинки</string>
     <string name="what_is_it_a_page">А это еще что за страница???</string>
